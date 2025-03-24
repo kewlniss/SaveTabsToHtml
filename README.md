@@ -2,6 +2,14 @@
 
 A browser extension that saves all your open tabs to a beautifully formatted HTML file with extracted descriptions. It also allows you to restore your saved tabs session with a single click.
 
+## Official Extension Download
+Chrome:
+https://chromewebstore.google.com/detail/save-tabs-to-html/nkhgajohinombcanphnhlfjlangpfahp
+
+Edge:
+https://microsoftedge.microsoft.com/addons/detail/save-tabs-to-html/kipamjjiobcgapkgfgcdekfhoinfhccn
+
+
 ## Features
 
 - Save all open tabs with a single click
@@ -71,3 +79,15 @@ This extension is designed with your privacy in mind:
 - All processing happens locally in your browser
 - No usage data or browsing history is collected or stored outside your device
 - Your tab information is only saved to the HTML file that you explicitly download
+
+# Want to send a tip?
+Stripe / Credit Card:
+https://donate.stripe.com/cN23eI2me5Pocco4gi
+
+Tip via Bitcoin:
+
+BTC: `bc1qh6xqrfq74mck9mgfspm4hx4ewhqmh5f70vktg7`
+
+Tip via Solana (including USDC on Solana):
+
+SOL: `3RMhqzZ4xNyESPr1PtKeyVQkty6SGhNgwWyusrFkHnaS`
